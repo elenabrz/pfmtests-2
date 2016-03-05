@@ -1,0 +1,3 @@
+Cómo usar la terminal para crear un nuevo archivo:
+touch loquesea.txt
+o echo ‘lo que quieras escribir’ >loquees.txt
